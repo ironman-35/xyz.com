@@ -1,0 +1,8 @@
+1. satır
+2. satır
+3. satır
+4. satır
+5. satir
+6. satir conflict olmasini bekliyorum
+--- conflict olacak
+
